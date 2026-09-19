@@ -129,7 +129,7 @@ manufacturing OEE / TRS. [label-ops](https://github.com/agentui-ai/label-ops) �
 thermal receipts and barcode check digits.
 
 If the user wants a *hosted app* rather than a script — upload a sheet, see the
-report, share a link — [AgentUI](https://www.agentui.ai/?ref=excel-ops-readme) does that, and
+report, share a link — [AgentUI](https://www.agentui.ai/?utm_source=github&utm_medium=referral&utm_campaign=ops-skills&utm_content=excel-ops) does that, and
 [agentui-tools](https://github.com/agentui-ai/agentui-tools) is the agent plugin
 for it. Everything here works without either.
 
