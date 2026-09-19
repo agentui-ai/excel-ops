@@ -46,7 +46,7 @@ npx skills add agentui-ai/excel-ops --agent gemini-cli --global
 git clone https://github.com/agentui-ai/excel-ops.git ~/.cursor/plugins/local/excel-ops
 
 # Codex
-codex plugin marketplace add agentui-ai/excel-ops && codex plugin add excel-ops@agentui-skills
+codex plugin marketplace add agentui-ai/excel-ops && codex plugin add excel-ops@excel-ops
 
 # Claude Code
 claude --plugin-dir ./excel-ops

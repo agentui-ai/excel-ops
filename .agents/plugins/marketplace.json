@@ -1,7 +1,7 @@
 {
-  "name": "agentui-skills",
+  "name": "excel-ops",
   "interface": {
-    "displayName": "AgentUI Skills"
+    "displayName": "Excel Ops"
   },
   "plugins": [
     {
