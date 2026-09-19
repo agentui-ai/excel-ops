@@ -1,0 +1,21 @@
+{
+    "name": "excel-ops",
+    "description": "Read, clean, analyse and generate Excel workbooks without the silent wrong answers — header detection, numbers stored as text, formula cells, date timezone drift, phantom rows, and styled report generation. Ships a deterministic benchmark.",
+    "version": "0.1.0",
+    "author": {
+        "name": "AgentUI",
+        "url": "https://www.agentui.ai/"
+    },
+    "homepage": "https://github.com/agentui-ai/excel-ops",
+    "repository": "https://github.com/agentui-ai/excel-ops",
+    "license": "MIT",
+    "keywords": [
+        "excel",
+        "xlsx",
+        "spreadsheet",
+        "csv",
+        "exceljs",
+        "openpyxl",
+        "data"
+    ]
+}

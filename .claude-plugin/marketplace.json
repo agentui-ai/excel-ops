@@ -1,0 +1,14 @@
+{
+    "name": "excel-ops",
+    "description": "Read, clean, analyse and generate Excel workbooks without the silent wrong answers — header detection, numbers stored as text, formula cells, date timezone drift, phantom rows, and styled report generation. Ships a deterministic benchmark.",
+    "owner": {
+        "name": "AgentUI"
+    },
+    "plugins": [
+        {
+            "name": "excel-ops",
+            "source": "./",
+            "description": "Read, clean, analyse and generate Excel workbooks without the silent wrong answers — header detection, numbers stored as text, formula cells, date timezone drift, phantom rows, and styled report generation. Ships a deterministic benchmark."
+        }
+    ]
+}

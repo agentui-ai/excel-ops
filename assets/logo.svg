@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" fill="none" role="img" aria-label="Excel Ops">
+  <title>Excel Ops</title>
+  <rect width="192" height="192" fill="#fff"/>
+  <!-- A grid whose one wrong cell is the whole point of the skill. -->
+  <g transform="translate(28 34)">
+    <rect x="0" y="0" width="136" height="124" rx="10" fill="#1F7A4D"/>
+    <g fill="#FFFFFF" opacity="0.28">
+      <rect x="12" y="12" width="112" height="18" rx="3"/>
+      <rect x="12" y="38" width="50" height="14" rx="3"/>
+      <rect x="74" y="38" width="50" height="14" rx="3"/>
+      <rect x="12" y="60" width="50" height="14" rx="3"/>
+      <rect x="12" y="82" width="50" height="14" rx="3"/>
+      <rect x="74" y="82" width="50" height="14" rx="3"/>
+    </g>
+    <!-- the cell that is quietly wrong -->
+    <rect x="74" y="60" width="50" height="14" rx="3" fill="#F4B740"/>
+  </g>
+</svg>

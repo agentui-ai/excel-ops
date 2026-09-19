@@ -1,0 +1,19 @@
+{
+  "name": "agentui-skills",
+  "interface": {
+    "displayName": "AgentUI Skills"
+  },
+  "plugins": [
+    {
+      "name": "excel-ops",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

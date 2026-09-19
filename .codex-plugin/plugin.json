@@ -1,0 +1,39 @@
+{
+  "name": "excel-ops",
+  "version": "0.1.0",
+  "description": "Read, clean, analyse and generate Excel workbooks without the silent wrong answers — header detection, numbers stored as text, formula cells, date timezone drift, phantom rows, and styled report generation. Ships a deterministic benchmark.",
+  "author": {
+    "name": "AgentUI",
+    "url": "https://www.agentui.ai/"
+  },
+  "homepage": "https://github.com/agentui-ai/excel-ops",
+  "repository": "https://github.com/agentui-ai/excel-ops",
+  "license": "MIT",
+  "keywords": [
+    "excel",
+    "xlsx",
+    "spreadsheet",
+    "csv",
+    "exceljs",
+    "openpyxl",
+    "data"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Excel Ops",
+    "shortDescription": "Excel work that does not quietly return the wrong number.",
+    "longDescription": "Spreadsheet code rarely crashes — it returns a plausible, wrong answer. This skill covers the nine traps that cause it (headers not on row 1, numbers stored as text, formula cells, date timezone drift, phantom rows, duplicate headers, rich text, merged banners, cover sheets), ships reference implementations for reading and for generating styled reports, and a deterministic benchmark that runs the from-memory version side by side with the skill's.",
+    "developerName": "AgentUI",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/agentui-ai/excel-ops",
+    "brandColor": "#1F7A4D",
+    "defaultPrompt": [
+      "Inspect this spreadsheet and tell me what is wrong with it",
+      "Turn this sheet into a styled report with totals"
+    ],
+    "composerIcon": "./assets/logo.svg",
+    "logo": "./assets/logo.png",
+    "screenshots": []
+  }
+}

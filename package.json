@@ -1,0 +1,31 @@
+{
+  "name": "excel-ops",
+  "version": "0.1.0",
+  "scripts": {
+    "bench": "TZ=America/New_York node benchmark/run.mjs",
+    "inspect": "node skills/excel-ops/scripts/inspect.mjs"
+  },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "spreadsheet",
+    "csv",
+    "exceljs",
+    "agent-skill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "Excel work that does not quietly return the wrong number — a portable agent skill plus a deterministic benchmark.",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "private": false,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentui-ai/excel-ops.git"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
